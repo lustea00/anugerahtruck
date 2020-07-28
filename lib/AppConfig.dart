@@ -10,7 +10,7 @@ class AppConfig {
   static String InsertESJURL = MainURL + "insertDataESJ";
   static String UpdateESJURL = MainURL + "updateDataESJ";
   static String VendorTrukURL = MainURL + "getVendor";
-  static String DataESJURL = MainURL + "getDataESJ";
+  static String DataESJURL = MainURL + "1";
 
   static String StorageKey = "anugrah_esj";
   static String PenjadwalanKey = "anugrah_esj_penjadwalan";
